@@ -1,0 +1,8 @@
+# Smart-Workout-Assistant
+ECE final year design project
+
+Abstract:
+Over the course of the COVID-19 pandemic, gym equipment purchases increased by 170%. However, with that saw a 48% rise in at-home related workout injuries. Studies show over 1 of 3 injuries at fitness facilities are caused by overexertion, with improper workout posture being the leading cause. Improper form causes tension around non-targeted muscle groups, leading to decreased performance and higher risk of injury. Individual at-home workouts are challenging because it is difficult to understand one’s own technique while working-out. Alternatives such as hiring a personal trainer are costly, and online training resources cannot provide real-time feedback on form.
+A smart-mirror AI trainer can help prevent potential injury, maximize exercise efficiency, and increase performance. The Smart Workout Trainer is a product that monitors and corrects a user’s workout posture during targeted exercises, such as weightlifting, in real-time. It uses a Kinect sensor to identify skeletal movements of the user and passes the input to an AI-model that computes and projects the proper posture onto a body-length smart mirror. Our technology is designed to accommodate diverse body types and users, making it a more accessible, cost-effective, and scalable alternative compared to hiring professional trainers or other online resources. The most challenging aspect of this design is the app’s ability to provide accurate user feedback and posture correction in a performant and user-friendly manner due to the different variables faced in making the system work for any user.
+
+See Demo: https://www.linkedin.com/posts/activity-7042273895395074048-uBZ0?utm_source=share&utm_medium=member_desktop
